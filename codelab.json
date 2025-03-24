@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2025-03-24T15:28:58Z",
+  "id": "alumni-student-app",
+  "duration": 4,
+  "title": "Alumni Students Update Discourse Email",
+  "authors": "Srinivas Chilukuri",
+  "summary": "Update Discourse Email for Alumni Students",
+  "source": "1h6UzaHjYifgTlDEzaeHojkWRFXJXc3WM4EeHbkDVFVs",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [
+    "9",
+    "web"
+  ],
+  "feedback": "https://discourse.onlinedegree.iitm.ac.in/c/tops/7",
+  "url": "alumni-student-app"
+}
